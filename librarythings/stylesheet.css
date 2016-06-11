@@ -1,0 +1,37 @@
+body{
+	font-family: Helvetica, Arial, sans-serif;
+	background-color: black;
+	color: white;
+}
+
+body a{
+	color: white;
+}
+
+ul{
+	list-style: none;
+	-webkit-padding-start: 0px;
+	-mox-padding-start: 0px;
+}
+
+ul li{
+	padding-top: 12px;
+}
+
+li input{
+	margin-right: 12px;
+	margin-left: 0px;
+}
+
+.journal_column{
+	width: 33%;
+	float: left;
+}
+
+.journal_column h3{
+	color:rgb(255,0,153);
+}
+
+.top_space{
+	margin-top: 48px;
+}

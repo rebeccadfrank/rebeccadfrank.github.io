@@ -1,7 +1,6 @@
 html {
 	font-size: 100%;
-	/*background-image: url("../img/color_prism.jpg");*/
-	/*background-repeat: repeat-y;*/
+	background-color:rgba(255,250,240,1);
 }
 
 body {
