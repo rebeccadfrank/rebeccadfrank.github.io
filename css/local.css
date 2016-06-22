@@ -5,8 +5,9 @@ html {
 
 body {
 	margin-top: 30px;
-	font-family: "Varela";
+	/*font-family: "Varela";*/
 	color:black;
+	font-size:1.12em;
 }
 
 ul {
@@ -42,6 +43,7 @@ hr {
 .nav {
 	list-style:none;
 	text-align:center;
+	font-size:1.5em;
 }
 
 .nav li {
@@ -50,6 +52,7 @@ hr {
 	border-right: 1px solid #ccc;
 	padding-left:10px;
 	padding-right:15px;
+	font-size:1.25em;
 }
 
 .nav li:first-child  { 
@@ -86,4 +89,13 @@ a:hover {
 	margin-top:60px;
 	font-size:75%;
 	color:#ADADAD;
+}
+
+.pub_heading {
+	font-weight:bold;
+	font-size:1.25em;
+}
+
+#pubs li a {
+	text-decoration: underline;
 }
