@@ -99,3 +99,7 @@ a:hover {
 #pubs li a {
 	text-decoration: underline;
 }
+
+#pubs li{
+	margin-bottom: 30px;
+}
