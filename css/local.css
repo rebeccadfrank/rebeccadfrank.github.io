@@ -55,12 +55,12 @@ hr {
 	font-size:1.25em;
 }
 
-.nav li:first-child  { 
+.nav li:first-child  {
 	padding-left:0px;
-}  
-.nav li:last-child  { 
-	border: 0; 
-} 
+}
+.nav li:last-child  {
+	border: 0;
+}
 
 
 .center {
@@ -102,4 +102,8 @@ a:hover {
 
 #pubs li{
 	margin-bottom: 30px;
+}
+
+#classes li{
+	/*margin-bottom: 30px;*/
 }
